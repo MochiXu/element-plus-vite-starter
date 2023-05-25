@@ -3,7 +3,9 @@ import { Ref, nextTick, onMounted, reactive, ref, watch } from "vue";
 import { each_json, form_data_default, cascade_results_default } from "./type";
 import { refreshScatterChart } from "./plotlyChartsHook";
 import { ElMessage } from "element-plus";
+
 import axios from "axios";
+// import KProgress from "k-progress-v3/dist/k-progress.umd.js";
 
 defineOptions({
   name: "BenchmarkPage",
@@ -23,6 +25,7 @@ const plotlyScatterChart = ref();
 const clicked_total_upload = ref(false);
 let pre_selected_topk: string = "🚀";
 let pre_selected_parallel: string[] = [];
+const isLoading: Ref<boolean> = ref(true);
 
 /** 更新 datasets_group */
 watch(
@@ -208,16 +211,23 @@ function initCascade(raw_data: each_json[]) {
 }
 
 onMounted(async () => {
-  try {
-    const response = await axios.get("src/assets/benchmark.json");
-    raw_data.value = response.data;
-    cascade_results.value = initCascade(raw_data.value);
-    form_data.datasets_selected = "";
-    form_data.datasets_selected = Object.keys(cascade_results.value)[0];
-    form_data.datasets_candidates = Object.keys(cascade_results.value);
-  } catch (error) {
-    console.error(error);
-  }
+  isLoading.value = true;
+  setTimeout(async () => {
+    try {
+      console.log("trying loading benchmark json");
+      const response = await axios.get("src/assets/benchmark.json");
+      raw_data.value = response.data;
+      cascade_results.value = initCascade(raw_data.value);
+      form_data.datasets_selected = "";
+      form_data.datasets_selected = Object.keys(cascade_results.value)[0];
+      form_data.datasets_candidates = Object.keys(cascade_results.value);
+      console.log("loading benchmark json finished");
+      isLoading.value = false;
+    } catch (error) {
+      console.error(error);
+    }
+  }, 2000);
+
   // 等待页面渲染完成, 进行预处理
   nextTick(async () => {});
 });
@@ -375,8 +385,20 @@ onMounted(async () => {
     </el-form>
     <el-card class="results-card" shadow="hover">
       <div class="results-chart">
-        <div ref="plotlyScatterChart" />
-        <div ref="plotlyLineChart" />
+        <div
+          class="loader-inner ball-clip-rotate"
+          :style="{ display: isLoading ? '' : 'none' }"
+        >
+          <div></div>
+        </div>
+        <div
+          ref="plotlyScatterChart"
+          :style="{ display: isLoading ? 'none' : '' }"
+        />
+        <div
+          ref="plotlyLineChart"
+          :style="{ display: isLoading ? 'none' : '' }"
+        />
       </div>
     </el-card>
   </div>
@@ -394,14 +416,22 @@ onMounted(async () => {
   display: flex;
 }
 
+.benchmark-container {
+  // height: calc(100vh);
+}
 .results-card {
   border: none;
   border-radius: 10px;
 }
 .results-chart {
+  // width: 800px;
   display: flex;
   flex-direction: column;
   // align-items: center;
   // justify-content: center;
+}
+@import "loaders.css/loaders.min.css";
+.ball-clip-rotate > div {
+  border-color: rgb(222, 155, 239);
 }
 </style>

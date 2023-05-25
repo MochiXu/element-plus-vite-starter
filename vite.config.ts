@@ -18,6 +18,16 @@ const pathSrc = path.resolve(__dirname, 'src')
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  server: {
+    // host: '0.0.0.0',
+    // proxy: {
+    //   '/api': {
+    //     target: 'https://mqdb-release-1253802058.cos.ap-beijing.myqcloud.com',
+    //     changeOrigin: true,
+    //     rewrite: (path) => path.replace(/^\/api/, '')
+    //   }
+    // }
+  },
   resolve: {
     alias: {
       '~/': `${pathSrc}/`,
