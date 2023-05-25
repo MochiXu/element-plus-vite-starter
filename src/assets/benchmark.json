@@ -1,0 +1,2842 @@
+[
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 1
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.853315,
+    "rps": 137.25429162456757,
+    "p95_time": 0.015429210900401813,
+    "mean_time": 0.013829466035971563,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 1
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.8537,
+    "rps": 258.7298479286303,
+    "p95_time": 0.01720859530250891,
+    "mean_time": 0.014536952987467884,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 1
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.8555087499999999,
+    "rps": 269.5432993524473,
+    "p95_time": 0.05902943195178523,
+    "mean_time": 0.027518181243984145,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 1
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.8573999999999999,
+    "rps": 68.62874343591086,
+    "p95_time": 0.014874368155869889,
+    "mean_time": 0.013904105114997947,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 1
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.92245,
+    "rps": 163.5793819141667,
+    "p95_time": 0.013659670603374252,
+    "mean_time": 0.01154108662339786,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 1
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.92505,
+    "rps": 269.50707285726196,
+    "p95_time": 0.01932529189762135,
+    "mean_time": 0.013861816703783916,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 1
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.92745,
+    "rps": 288.6650579059948,
+    "p95_time": 0.05897568369946383,
+    "mean_time": 0.025373835932196016,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 1
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9301000000000001,
+    "rps": 90.11531501481404,
+    "p95_time": 0.01076760819851188,
+    "mean_time": 0.01053579535701283,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 2
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9493550000000001,
+    "rps": 111.31165840721161,
+    "p95_time": 0.01939821144733287,
+    "mean_time": 0.017211526029528613,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 2
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9497525,
+    "rps": 169.56259446698786,
+    "p95_time": 0.027345687544584506,
+    "mean_time": 0.022755534895988604,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 2
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9503400000000002,
+    "rps": 60.96038823338795,
+    "p95_time": 0.016309377046854933,
+    "mean_time": 0.015654853216117773,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 2
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.95135875,
+    "rps": 166.45988722964404,
+    "p95_time": 0.06674018324774805,
+    "mean_time": 0.04663551171857944,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9529150000000001,
+    "rps": 45.01364277762082,
+    "p95_time": 0.07383807290607365,
+    "mean_time": 0.043513632219419375,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9539000000000001,
+    "rps": 80.66890367096852,
+    "p95_time": 0.031077113047649617,
+    "mean_time": 0.023949135882972768,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.954075,
+    "rps": 93.08082443143442,
+    "p95_time": 0.05885530670057051,
+    "mean_time": 0.042046001511303985,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9543800000000001,
+    "rps": 22.99532182535964,
+    "p95_time": 0.0696970169483393,
+    "mean_time": 0.04248871752510604,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9550075,
+    "rps": 88.56994626272154,
+    "p95_time": 0.06494916440060478,
+    "mean_time": 0.044069761990474944,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9552999999999999,
+    "rps": 45.14077409238005,
+    "p95_time": 0.026503869951557135,
+    "mean_time": 0.021211527052131713,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9560425000000001,
+    "rps": 155.3832832596684,
+    "p95_time": 0.06910190320013498,
+    "mean_time": 0.049756444252662735,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9562625,
+    "rps": 217.1730446825354,
+    "p95_time": 0.03845731965084269,
+    "mean_time": 0.03564021115650667,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9662000000000001,
+    "rps": 59.66515654068466,
+    "p95_time": 0.048312306301522764,
+    "mean_time": 0.032687573525992775,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.966525,
+    "rps": 71.00261388498544,
+    "p95_time": 0.09228481304489831,
+    "mean_time": 0.055422678017474025,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.96713,
+    "rps": 37.96016342909632,
+    "p95_time": 0.08946818109834567,
+    "mean_time": 0.05175925908148929,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9677,
+    "rps": 32.69601018460345,
+    "p95_time": 0.038892202501301654,
+    "mean_time": 0.029574910920026013,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.96802,
+    "rps": 21.70484925796055,
+    "p95_time": 0.07956724855539506,
+    "mean_time": 0.04517671762192913,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.968425,
+    "rps": 134.04766748879757,
+    "p95_time": 0.06459882844574168,
+    "mean_time": 0.0584998713459845,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.969275,
+    "rps": 82.6445847295467,
+    "p95_time": 0.07207764109916752,
+    "mean_time": 0.04736078556706343,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 2
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9695,
+    "rps": 129.38373350922834,
+    "p95_time": 0.016268359299647272,
+    "mean_time": 0.014685753553898393,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97026625,
+    "rps": 130.21864229858764,
+    "p95_time": 0.0883002430975466,
+    "mean_time": 0.06007274195574064,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9705999999999999,
+    "rps": 114.84829795787957,
+    "p95_time": 0.01901297394942958,
+    "mean_time": 0.016597075985046103,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 2
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97075,
+    "rps": 230.01553015861143,
+    "p95_time": 0.01935064899880672,
+    "mean_time": 0.01647538287620955,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 2
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9707875,
+    "rps": 200.7245694386936,
+    "p95_time": 0.07006345215522743,
+    "mean_time": 0.03828193437678965,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9711000000000001,
+    "rps": 58.3299348262273,
+    "p95_time": 0.017678232698381178,
+    "mean_time": 0.0161091027999355,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.971475,
+    "rps": 164.6490341930259,
+    "p95_time": 0.025952880403201553,
+    "mean_time": 0.023366338371066376,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9717100000000001,
+    "rps": 49.15292917240855,
+    "p95_time": 0.06385916290309979,
+    "mean_time": 0.03978848880052101,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9719000000000001,
+    "rps": 33.916066305533114,
+    "p95_time": 0.0866161796497181,
+    "mean_time": 0.05809682213404449,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 2
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.972,
+    "rps": 67.16987832280137,
+    "p95_time": 0.014837079696008004,
+    "mean_time": 0.014281428259862878,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97201,
+    "rps": 27.266444623324475,
+    "p95_time": 0.06151175775084994,
+    "mean_time": 0.0357593351580872,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9723,
+    "rps": 66.30979693019484,
+    "p95_time": 0.13503057314701433,
+    "mean_time": 0.05939089049680115,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9733999999999999,
+    "rps": 22.772071889446824,
+    "p95_time": 0.06265960449854902,
+    "mean_time": 0.04297595192695008,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9738125,
+    "rps": 166.86624853809542,
+    "p95_time": 0.05683945551136268,
+    "mean_time": 0.04680590452341676,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9742000000000001,
+    "rps": 88.51489283091948,
+    "p95_time": 0.06690903105045436,
+    "mean_time": 0.0441541735397077,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9743875000000001,
+    "rps": 80.22940522869911,
+    "p95_time": 0.11052456225224885,
+    "mean_time": 0.09863652411398652,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9746100000000001,
+    "rps": 28.72425414242367,
+    "p95_time": 0.11753282709723861,
+    "mean_time": 0.06866189406746707,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9751700000000001,
+    "rps": 18.12676098595177,
+    "p95_time": 0.09371233985038996,
+    "mean_time": 0.05413501330997678,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9752000000000001,
+    "rps": 45.89233366096767,
+    "p95_time": 0.03169432399299694,
+    "mean_time": 0.020821722096865416,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97555,
+    "rps": 97.65153531425754,
+    "p95_time": 0.022462802545487645,
+    "mean_time": 0.019629050521441968,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9755862500000001,
+    "rps": 147.7875729077915,
+    "p95_time": 0.07551839274237862,
+    "mean_time": 0.052640443907423104,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.976075,
+    "rps": 52.426448632510684,
+    "p95_time": 0.10769373109360457,
+    "mean_time": 0.07536688715823767,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97635,
+    "rps": 26.58299397952052,
+    "p95_time": 0.06454674475098728,
+    "mean_time": 0.03658914442321111,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.976535,
+    "rps": 41.21775056317918,
+    "p95_time": 0.08988033335626823,
+    "mean_time": 0.047617854464020636,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9766175,
+    "rps": 69.30012410864475,
+    "p95_time": 0.09103845979843753,
+    "mean_time": 0.0566978896736855,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9769750000000001,
+    "rps": 56.678223342707206,
+    "p95_time": 0.19641576485300902,
+    "mean_time": 0.14001670454702253,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 64
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97729875,
+    "rps": 79.74436314737248,
+    "p95_time": 0.13783360404813716,
+    "mean_time": 0.09911664541824666,
+    "total_upload": 9717.524868532004
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9773000000000001,
+    "rps": 44.18103062463035,
+    "p95_time": 0.024362250148260496,
+    "mean_time": 0.02163134844286833,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 3
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9773400000000001,
+    "rps": 42.67153896170401,
+    "p95_time": 0.02375588699724176,
+    "mean_time": 0.022768392911013506,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97775,
+    "rps": 87.51758952853048,
+    "p95_time": 0.025674548544338906,
+    "mean_time": 0.021992770079363254,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.977775,
+    "rps": 99.88704220892417,
+    "p95_time": 0.044871422660799,
+    "mean_time": 0.03915577053889501,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9780325000000001,
+    "rps": 50.872970786274784,
+    "p95_time": 0.12995781029167117,
+    "mean_time": 0.0776101373278434,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 3
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9780650000000001,
+    "rps": 78.99438037054905,
+    "p95_time": 0.0268872620548791,
+    "mean_time": 0.024550789692901163,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 3
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97851,
+    "rps": 108.86389465815654,
+    "p95_time": 0.03989444859762443,
+    "mean_time": 0.035985590961521666,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 64
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97879125,
+    "rps": 55.06477058847428,
+    "p95_time": 0.2114658393897116,
+    "mean_time": 0.14405573372864638,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9792000000000001,
+    "rps": 38.552101948578176,
+    "p95_time": 0.02946594509485294,
+    "mean_time": 0.02503480398035026,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9794375,
+    "rps": 102.93378167139352,
+    "p95_time": 0.08564922389341519,
+    "mean_time": 0.07664910197787321,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9796400000000001,
+    "rps": 24.802734022040095,
+    "p95_time": 0.06733269090254908,
+    "mean_time": 0.03937956715184555,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 3
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.97969125,
+    "rps": 89.1671007888375,
+    "p95_time": 0.10271528019875403,
+    "mean_time": 0.08846939067467974,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.979885,
+    "rps": 45.81578272049143,
+    "p95_time": 0.07003398159649805,
+    "mean_time": 0.042760355123115004,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9799,
+    "rps": 32.5122361409405,
+    "p95_time": 0.035013754345709455,
+    "mean_time": 0.029872924410927225,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98025,
+    "rps": 70.57378073018742,
+    "p95_time": 0.03295380039926385,
+    "mean_time": 0.02747606845196424,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98045,
+    "rps": 56.24166532195447,
+    "p95_time": 0.04188362080094521,
+    "mean_time": 0.03464202793622826,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9807250000000001,
+    "rps": 33.56878569810222,
+    "p95_time": 0.16722684955748263,
+    "mean_time": 0.11820387422163912,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9808000000000001,
+    "rps": 58.925024865042815,
+    "p95_time": 0.07797830694544246,
+    "mean_time": 0.06695845645267036,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9815,
+    "rps": 27.402395091672023,
+    "p95_time": 0.04395005800470243,
+    "mean_time": 0.03564778819930507,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9816625,
+    "rps": 33.87147469896726,
+    "p95_time": 0.2863440949025971,
+    "mean_time": 0.23501786759591778,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98197,
+    "rps": 23.112940277377668,
+    "p95_time": 0.07154157779659727,
+    "mean_time": 0.0423169051528821,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9820399999999999,
+    "rps": 77.05944971142509,
+    "p95_time": 0.07928241659974447,
+    "mean_time": 0.05087815330380181,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9822000000000001,
+    "rps": 43.39206353337983,
+    "p95_time": 0.05597005434465245,
+    "mean_time": 0.04523019316857244,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.982265,
+    "rps": 28.91278825391963,
+    "p95_time": 0.12375131590451927,
+    "mean_time": 0.06826671408332186,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9823375000000001,
+    "rps": 60.018983484105995,
+    "p95_time": 0.1493042145993968,
+    "mean_time": 0.13220977043239146,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9825900000000002,
+    "rps": 21.827598299492053,
+    "p95_time": 0.07654738455676124,
+    "mean_time": 0.04493661892718228,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9829925,
+    "rps": 100.93883601633449,
+    "p95_time": 0.11301616375058073,
+    "mean_time": 0.07805738781155924,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.983,
+    "rps": 19.601146243834982,
+    "p95_time": 0.26299344029757776,
+    "mean_time": 0.20308186239085263,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98302,
+    "rps": 39.007229198754395,
+    "p95_time": 0.08285850245301844,
+    "mean_time": 0.05034061768975516,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9835725,
+    "rps": 34.05037255874296,
+    "p95_time": 0.1874668931945052,
+    "mean_time": 0.11650016383864567,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9838375000000001,
+    "rps": 20.25626240450492,
+    "p95_time": 0.47371045080653856,
+    "mean_time": 0.3937094543573203,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98408,
+    "rps": 20.325520176466878,
+    "p95_time": 0.08329662340256619,
+    "mean_time": 0.04823553141292359,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 128
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9842012499999999,
+    "rps": 33.464495601142445,
+    "p95_time": 0.30256115129741373,
+    "mean_time": 0.23785654343300666,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.984475,
+    "rps": 17.80284473529008,
+    "p95_time": 0.17502592900127636,
+    "mean_time": 0.11142383858210086,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 3
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98475,
+    "rps": 83.24185726440436,
+    "p95_time": 0.024871071101370035,
+    "mean_time": 0.023015047817527376,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.985155,
+    "rps": 56.955255516280225,
+    "p95_time": 0.1088410443611792,
+    "mean_time": 0.06921229112070432,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 3
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9854,
+    "rps": 47.36670079426701,
+    "p95_time": 0.0212726144491171,
+    "mean_time": 0.0204574793030406,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 3
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9858250000000001,
+    "rps": 150.05282004440954,
+    "p95_time": 0.03017541120461828,
+    "mean_time": 0.02577133355481965,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9858475000000001,
+    "rps": 20.907325625248266,
+    "p95_time": 0.2722219042545475,
+    "mean_time": 0.19027092199490653,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 16,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.98606625,
+    "rps": 59.07238388355162,
+    "p95_time": 0.17927263130695792,
+    "mean_time": 0.13426068428375584,
+    "total_upload": 9917.984139715008
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 3
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.986075,
+    "rps": 91.82048037420094,
+    "p95_time": 0.10172350964930957,
+    "mean_time": 0.08589539544889249,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 298225080443249713347038165287091208077,
+    "engine": "qdrant",
+    "version": "v1.1.3",
+    "remark": "client:3.85.229.28, us-east-1; server:us-east-1;",
+    "index_type": "HNSW",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1684230666412,
+    "index_create_parameter": {
+      "m": 32,
+      "ef_construct": 256
+    },
+    "index_search_params": {
+      "hnsw_ef": 256
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9863587500000001,
+    "rps": 21.07236675347324,
+    "p95_time": 0.4735071686569426,
+    "mean_time": 0.3783486691236103,
+    "total_upload": 9664.873547729992
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 4
+    },
+    "search_parallel": 1,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9893200000000001,
+    "rps": 26.902287195403304,
+    "p95_time": 0.03760499424824957,
+    "mean_time": 0.03647879942994041,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 4
+    },
+    "search_parallel": 2,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.990165,
+    "rps": 49.47247827509645,
+    "p95_time": 0.04175292054896999,
+    "mean_time": 0.03963334386845963,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 4
+    },
+    "search_parallel": 4,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9905025000000001,
+    "rps": 70.85158522458784,
+    "p95_time": 0.06921067410512477,
+    "mean_time": 0.055581973973708954,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 4
+    },
+    "search_parallel": 8,
+    "search_top": 100,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9909525000000001,
+    "rps": 41.513616062647515,
+    "p95_time": 0.20987696805677838,
+    "mean_time": 0.1916701163665657,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 4
+    },
+    "search_parallel": 1,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9914,
+    "rps": 29.508653118980007,
+    "p95_time": 0.03431872154833399,
+    "mean_time": 0.033211049290977825,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 4
+    },
+    "search_parallel": 2,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.99195,
+    "rps": 53.376811309648474,
+    "p95_time": 0.038617723398419915,
+    "mean_time": 0.03641742359955606,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 4
+    },
+    "search_parallel": 4,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.9929000000000001,
+    "rps": 75.33911536427364,
+    "p95_time": 0.06635215284550212,
+    "mean_time": 0.05222660738244667,
+    "total_upload": 1794.9646255810003
+  },
+  {
+    "hash_code": 147069357199126335277408621476730850705,
+    "engine": "myscale",
+    "version": "v22.3.7.5",
+    "remark": "client:aws-dev, server:aws-dev, optimized",
+    "index_type": "MSTG",
+    "dataset": "laion-768-5m-ip",
+    "dataset_group": "laion-768-5m-ip",
+    "dataset_tag": "no-filter",
+    "time_stamp": 1683253715748,
+    "index_create_parameter": {
+      "optimizers_config": {
+        "optimize_final": true
+      }
+    },
+    "index_search_params": {
+      "alpha": 4
+    },
+    "search_parallel": 8,
+    "search_top": 10,
+    "upload_parallel": 16,
+    "upload_batch_size": 64,
+    "mean_precisions": 0.993025,
+    "rps": 41.88787881401149,
+    "p95_time": 0.2103867932928551,
+    "mean_time": 0.1899473323641496,
+    "total_upload": 1794.9646255810003
+  }
+]
